@@ -11,3 +11,4 @@ git add test.txt
 git status
 git commit -m "debug de telle feature..."
 git status
+git rm test.txt

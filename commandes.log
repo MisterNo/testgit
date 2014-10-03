@@ -1,0 +1,14 @@
+(Lancer Node.js)
+
+npm install -g uglify-js
+cd ../testGit
+
+(Créer test.txt avec du texte dedans dans le dossier testGit)
+
+git init
+git status
+git add test.txt
+git status
+git commit -m "debug de telle feature..."
+git status
+git rm test.txt

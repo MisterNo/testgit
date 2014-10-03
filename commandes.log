@@ -9,5 +9,5 @@ git init
 git status
 git add test.txt
 git status
-git commit
+git commit -m "debug de telle feature..."
 git status
